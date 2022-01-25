@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="M120Projekt.GameDetail"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:M120Projekt"
+             mc:Ignorable="d" 
+             d:DesignHeight="635" d:DesignWidth="200">
+    <UserControl.Resources>
+        <Style x:Key = "textBoxStyle" TargetType = "TextBox">
+            <Setter Property = "Background" Value = "Azure"/>
+            <Setter Property = "Margin" Value = "8"/>
+            <Setter Property = "TextAlignment" Value= "Center"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid Background="Azure">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.85*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" ToolTip="Name">
+            <Border BorderBrush="Gray" BorderThickness="2px" Background="White"></Border>
+            <TextBox x:Name="GameDetailsGameName" Style = "{StaticResource textBoxStyle}" FontSize="15px" TextWrapping="Wrap" Background="White" BorderThickness="0" />
+        </Grid>
+
+        <TextBox x:Name="GameDetailJahr" ToolTip="Erscheinungsjahr" Grid.Row="1" Style = "{StaticResource textBoxStyle}" ></TextBox>
+
+        <TextBox x:Name="GameDetailGenre" ToolTip="Genre" Grid.Row="2" Style = "{StaticResource textBoxStyle}"></TextBox>
+
+        <TextBox x:Name="GameDetailKonsole" ToolTip="Konsole" Grid.Row="3" Style = "{StaticResource textBoxStyle}"></TextBox>
+
+        <Grid x:Name="GameDetailVerfügbarkeit" Grid.Row="4">
+            <RadioButton x:Name="VerfügbarRadioButton" Margin="10,6,0,10">
+                <RadioButton.Content>
+                    <TextBlock Background="LightGreen">Verfügbar</TextBlock>
+                </RadioButton.Content>
+            </RadioButton>
+            <RadioButton x:Name="NichtVerfügbarRadioButton" Margin="10,24,0,10">
+                <RadioButton.Content>
+                    <TextBlock Background="PaleVioletRed">Nicht Verfügbar</TextBlock>
+                </RadioButton.Content>
+            </RadioButton>
+        </Grid>
+
+        <Grid Grid.Row="5" RenderTransformOrigin="0.503,0.458" Margin="0,0,0,183" Grid.RowSpan="2">
+            <ComboBox x:Name="GameDetailZustand" Height="20px" Margin="62,12,10,36">
+                <ComboBoxItem x:Name="Neu">Neu</ComboBoxItem>
+                <ComboBoxItem x:Name="Einwandfrei">Einwandfrei</ComboBoxItem>
+                <ComboBoxItem x:Name="leichteGebrauchsspuren">leichte Gebrauchsspuren</ComboBoxItem>
+                <ComboBoxItem x:Name="starkeGebrauchsspuren">starke Gebrauchsspuren</ComboBoxItem>
+                <ComboBoxItem x:Name="beschädigt">beschädigt</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Margin="8,12,138,41"><Run Text="Zustand"/><Run Text=":"/></TextBlock>
+        </Grid>
+        <Grid Grid.Row="6" Margin="0,10,0,0">
+            <TextBlock  Margin="8,0" Text="Kommentar:"></TextBlock>
+            <TextBox x:Name="GameDetailKommentar" Text="" Margin="10,20"></TextBox>
+        </Grid>
+        <Button Grid.Row="7" Background="Transparent" Margin="71,0,69,0" BorderThickness="0px" Click="ÄnderungenSpeichernButton_click" >
+            <StackPanel>
+                <Image Source="Save_icon-icons.com_73702.png" Height="37"/>
+            </StackPanel>
+        </Button>
+    </Grid>
+</UserControl>

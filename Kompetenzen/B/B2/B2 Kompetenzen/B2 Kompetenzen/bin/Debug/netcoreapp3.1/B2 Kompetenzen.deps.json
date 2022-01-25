@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "B2 Kompetenzen/1.0.0": {
+        "runtime": {
+          "B2 Kompetenzen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B2 Kompetenzen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

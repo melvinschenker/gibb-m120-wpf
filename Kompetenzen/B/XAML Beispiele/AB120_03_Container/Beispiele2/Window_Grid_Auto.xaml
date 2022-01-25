@@ -1,0 +1,17 @@
+﻿<Window x:Class="AB120_03_Container.Beispiele2.Window_Grid_Auto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AB120_03_Container.Beispiele2"
+        mc:Ignorable="d"
+        Title="Window_Grid_Auto" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Linke Seite je nach Grösse" Grid.Column="0"/>
+        <Button Content="Rechte Seite frei" Grid.Column="1"/>
+    </Grid>
+</Window>

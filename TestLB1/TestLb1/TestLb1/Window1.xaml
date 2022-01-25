@@ -1,0 +1,41 @@
+﻿<Window x:Class="TestLb1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestLb1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Window1" Height="475" Width="800">
+    <WrapPanel>
+        <StackPanel  Background="Azure" Width="396" Height="370" Orientation="Vertical" >
+            <TextBlock>Text1</TextBlock>
+            <TextBlock x:Name="textError" Background="Red"></TextBlock>
+            <TextBox x:Name="Text"></TextBox>
+            <TextBlock>Datum1</TextBlock>
+            <TextBlock x:Name="datumError" Background="Red"></TextBlock>
+            <TextBox x:Name="Datum"></TextBox>
+            <TextBlock>Radio1</TextBlock>
+            <TextBlock x:Name="radioError" Background="Red"></TextBlock>
+            <ListBox x:Name="Radiobuttonslist" SelectionMode="Single">
+                <RadioButton x:Name="r1">Radio 1</RadioButton>
+                <RadioButton x:Name="r2">Radio 2</RadioButton>
+            </ListBox>
+            <TextBlock>Check1</TextBlock>
+            <TextBlock x:Name="checkError" Background="Red"></TextBlock>
+            <ListBox x:Name="Checkboxlist" SelectionMode="Multiple">
+                <CheckBox x:Name="c1" IsTabStop="True" >Check 1</CheckBox>
+                <CheckBox x:Name="c2" IsTabStop="True">Check 2</CheckBox>
+                <CheckBox x:Name="c3" IsTabStop="True">Check 3</CheckBox>
+            </ListBox>
+            <Button x:Name="ValidatorButton" Height="34" Content="Validate" Margin="20,50,20,0" Click="ValidatorButton_Click"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal">
+            <Label Background="Bisque"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <TextBox x:Name="result" Background="White" Width="200" Height="100" TextWrapping="Wrap"></TextBox>
+            </Label>
+        </StackPanel>
+    </WrapPanel>
+</Window>

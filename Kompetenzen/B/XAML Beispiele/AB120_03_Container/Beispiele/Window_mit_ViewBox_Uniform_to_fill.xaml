@@ -1,0 +1,14 @@
+﻿<Window x:Class="AB120_03_Container.Beispiele.Window_mit_ViewBox_Uniform_to_fill"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AB120_03_Container.Beispiele"
+        mc:Ignorable="d"
+        Title="Window_mit_ViewBox_Uniform_to_fill" Height="300" Width="300">
+    <Grid>
+        <Viewbox Stretch="UniformToFill">
+            <Button Content="Uniform To Fill"/>
+        </Viewbox>
+    </Grid>
+</Window>

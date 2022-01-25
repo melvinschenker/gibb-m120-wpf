@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AB120_03_HelloWorld/1.0.0": {
+        "runtime": {
+          "AB120_03_HelloWorld.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AB120_03_HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

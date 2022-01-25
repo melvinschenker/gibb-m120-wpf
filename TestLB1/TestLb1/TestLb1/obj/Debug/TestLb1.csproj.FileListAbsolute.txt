@@ -1,0 +1,17 @@
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\bin\Debug\TestLb1.exe.config
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\bin\Debug\TestLb1.exe
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\bin\Debug\TestLb1.pdb
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.csprojAssemblyReference.cache
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\MainWindow.g.cs
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\App.g.cs
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1_MarkupCompile.cache
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1_MarkupCompile.lref
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\MainWindow.baml
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.g.resources
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.Properties.Resources.resources
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.csproj.GenerateResource.cache
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.csproj.CoreCompileInputs.cache
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.exe
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\TestLb1.pdb
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\Window1.g.cs
+C:\Daten\M120\TestLB1\TestLb1\TestLb1\obj\Debug\Window1.baml

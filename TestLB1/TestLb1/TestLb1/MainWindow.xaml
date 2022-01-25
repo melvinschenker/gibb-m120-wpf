@@ -1,0 +1,74 @@
+﻿<Window x:Class="TestLb1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestLb1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="463.5" Width="800">
+    <Grid Margin="0,0,0,-21">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.ColumnSpan="3" Grid.Row="0" Background="Aqua">
+            <TextBlock FontSize="30px" Background="Beige" Text="Validierungen" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" Height="48" Width="203" />
+        </Grid>
+        
+        <Grid Grid.Row="1" Grid.Column="0" Background="Tomato">
+            <StackPanel DockPanel.Dock="Left">
+                <TextBlock TextAlignment="Center" >CheckBoxes</TextBlock>
+                <ListBox x:Name="CheckboxList" SelectionMode="Multiple">
+                    <CheckBox x:Name="CBItem1" Width="100">Item 1</CheckBox>
+                    <CheckBox x:Name="CBItem2" Width="100">Item 2</CheckBox>
+                    <CheckBox x:Name="CBItem3" Width="100">Item 3</CheckBox>
+                </ListBox>
+                <TextBlock x:Name="CBError" Margin="0,30,0,0" Background="Red" TextAlignment="Center" Visibility="Hidden" Foreground="White">Bitte ein Item auswählen</TextBlock>
+            </StackPanel>
+        </Grid>
+
+
+        <Grid Grid.Row="1" Grid.Column="1"  Background="Yellow">
+            <StackPanel DockPanel.Dock="Left">
+                <TextBlock TextAlignment="Center">TextBox</TextBlock>
+                <TextBox x:Name="TextBox" Height="54" Width="150" LostFocus="TextBox_LostFocus" GotFocus="TextBox_GotFocus" TextWrapping="Wrap"/>
+                <TextBlock x:Name="TBError" Margin="0,10" Background="Red" TextAlignment="Center" Visibility="Hidden" Foreground="White">Text eingeben</TextBlock>
+                <TextBlock TextAlignment="Center">Datum</TextBlock>
+                <TextBox x:Name="DatumBox" Width="150"></TextBox>
+                <TextBlock x:Name="DBError" Margin="0,10" Background="Red" TextAlignment="Center" Visibility="Hidden" Foreground="White">Datum eingeben: DD/MM/YYYY</TextBlock>
+                <Label Margin="0,10"  Background="SeaGreen" HorizontalContentAlignment="Center">
+                    <Button Width="100" Content="Validieren" Click="ValidierenButton_click"/>
+                </Label>
+            </StackPanel>
+        </Grid>
+
+
+        <Grid Grid.Row="1" Grid.Column="2" Background="SpringGreen">
+            <StackPanel DockPanel.Dock="Left">
+                <TextBlock TextAlignment="Center" >RadioButtons</TextBlock>
+                <ListBox x:Name="RadioButtonsList">
+                    <RadioButton x:Name="RBItem1" Width="100">Item 1</RadioButton>
+                    <RadioButton x:Name="RBItem2" Width="100">Item 2</RadioButton>
+                    <RadioButton x:Name="RBItem3" Width="100">Item 3</RadioButton>
+                </ListBox>
+                <TextBlock x:Name="RBError" Margin="0,30,0,0" Background="Red" TextAlignment="Center"  Visibility="Hidden" Foreground="White">Bitte ein Item auswählen</TextBlock>
+            </StackPanel>
+
+        </Grid>
+        
+        <TextBlock  Grid.Column="0" Grid.Row="2" Background="Bisque" Text="Validierung" TextAlignment="Right"/>
+        
+        <TextBlock x:Name="ValidierungBox" Grid.Column="1" Grid.Row="2" Background="Azure"/>
+
+        <Grid Grid.Row="2" Grid.Column="2" Background="Bisque">
+            <Button x:Name="NewWindowButton" Grid.Column="3" Grid.Row="2" Width="200" Height="50" Click="NewWindowButton_Click">Neues Fenster</Button>
+        </Grid>
+    </Grid>
+</Window>

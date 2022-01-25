@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="ButtonContainer" Grid.Column="0" Background="AntiqueWhite">
+            <StackPanel>
+                <Button x:Name="HomeButton" Margin="20" Content="Home" Click="HomeButton_Click"/>
+                <Button x:Name="NewsButton" Margin="20" Content="News" Click="NewsButton_Click"/>
+                <Button x:Name="MusicButton" Margin="20" Content="Music" Click="MusicButton_Click"/>
+                <Button x:Name="GamesButton" Margin="20" Content="Games" Click="GamesButton_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="GridContainer" Grid.Column="1" Background="Pink">
+            <local:Home x:Name="homeUC" Margin="15"></local:Home>
+            <local:News x:Name="newsUC" Margin="15" Visibility="Collapsed"></local:News>
+            <local:Music x:Name="musicUC" Margin="15" Visibility="Collapsed"></local:Music>
+            <local:Games x:Name="gamesUC" Margin="15" Visibility="Collapsed"></local:Games>
+        </Grid>
+    </Grid>
+</Window>

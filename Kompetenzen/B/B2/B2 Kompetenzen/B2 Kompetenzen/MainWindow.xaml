@@ -1,0 +1,23 @@
+﻿<Window x:Class="B2_Kompetenzen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:B2_Kompetenzen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+
+    <Grid Background="AliceBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="0" VerticalContentAlignment="Center" Content="Name eingeben:" Margin="50,50" VerticalAlignment="Top" Height="36" Width="117"/>
+        <Button x:Name="Button1" Click="Button1_Click" Content="OK!" VerticalContentAlignment="Center" Margin="10, 100, 10, 10" VerticalAlignment="Top" Height="36" Width="117"/>
+
+        <Label x:Name="Label1" Grid.Column="1" HorizontalAlignment="Left" Margin="15,86,0,0" VerticalAlignment="Top" Height="56" Width="160" FontSize="10" FontWeight="Bold"/>
+        <TextBox x:Name="TextBox1" Grid.Column="1" HorizontalAlignment="Left" Margin="15,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="31"/>
+        <TextBlock x:Name="TextBlock1" Grid.Column="1" HorizontalAlignment="Left" Margin="15,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="57" Width="160"/>
+    </Grid>
+</Window>

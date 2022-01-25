@@ -1,0 +1,155 @@
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe.config
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.pdb
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\App.g.cs
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.cache
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.lref
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.baml
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.g.resources
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.Properties.Resources.resources
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.exe
+C:\Users\root\Desktop\M120\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.pdb
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe.config
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.exe
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.pdb
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.pdb
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\App.g.cs
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.cache
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.lref
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.baml
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.g.resources
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.Properties.Resources.resources
+C:\Users\root\Desktop\M120\AB03\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.GenerateResource.Cache
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe.config
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.exe
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\bin\Debug\AB120_03_Container.pdb
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csprojAssemblyReference.cache
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\App.g.cs
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.cache
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.lref
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\MainWindow.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.baml
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.g.resources
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.Properties.Resources.resources
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.GenerateResource.cache
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.CoreCompileInputs.cache
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.exe
+D:\5_daten\Module\iet-120\Kompetenzen\B\B1\AB120_03_Container\AB120_03_Container\obj\Debug\AB120_03_Container.pdb
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\bin\Debug\AB120_03_Container.exe.config
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\bin\Debug\AB120_03_Container.exe
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\bin\Debug\AB120_03_Container.pdb
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.csprojAssemblyReference.cache
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\MainWindow.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\App.g.cs
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.cache
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container_MarkupCompile.lref
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_1Stern.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_2Sterne.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_Grid_Auto.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_2Margins.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele2\Window_mit_4Margins.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Canvas.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Dockpanel.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_StackPanel.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Fill.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_ViewBox_Uniform_to_fill.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_WrapPanel.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\MainWindow.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\Beispiele\Window_mit_Grid.baml
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.g.resources
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.Properties.Resources.resources
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.GenerateResource.cache
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.csproj.CoreCompileInputs.cache
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.exe
+C:\Daten\M120\B\XAML Beispiele\AB120_03_Container\obj\Debug\AB120_03_Container.pdb

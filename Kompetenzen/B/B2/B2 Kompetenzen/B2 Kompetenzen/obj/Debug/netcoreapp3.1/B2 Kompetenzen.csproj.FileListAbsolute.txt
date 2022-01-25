@@ -1,0 +1,19 @@
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.exe
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.deps.json
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.runtimeconfig.json
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.runtimeconfig.dev.json
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.dll
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\bin\Debug\netcoreapp3.1\B2 Kompetenzen.pdb
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.csprojAssemblyReference.cache
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen_MarkupCompile.cache
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen_MarkupCompile.lref
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.g.resources
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.AssemblyInfoInputs.cache
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.AssemblyInfo.cs
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.csproj.CoreCompileInputs.cache
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.dll
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.pdb
+C:\Daten\M120\B\B2\B2 Kompetenzen\B2 Kompetenzen\obj\Debug\netcoreapp3.1\B2 Kompetenzen.genruntimeconfig.cache

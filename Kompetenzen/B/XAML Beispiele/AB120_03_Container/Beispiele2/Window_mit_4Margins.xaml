@@ -1,0 +1,12 @@
+﻿<Window x:Class="AB120_03_Container.Beispiele2.Window_mit_4Margins"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AB120_03_Container.Beispiele2"
+        mc:Ignorable="d"
+        Title="Window_mit_4Margins" Height="120" Width="200">
+    <Grid>
+        <Button Content="Button" Margin="10,20,30,40"/>
+    </Grid>
+</Window>
